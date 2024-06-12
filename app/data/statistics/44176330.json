@@ -1,0 +1,27 @@
+{
+    "product_id": "44176330",
+    "product_name": [
+        "Rasasi Hawas For Men Woda Perfumowana 100ml"
+    ],
+    "opinions_count": "37",
+    "pros_count": 17,
+    "cons_count": 2,
+    "average_score": 4.5,
+    "score_distribution": {
+        "0.5": 2.0,
+        "1.0": 1.0,
+        "1.5": NaN,
+        "2.0": NaN,
+        "2.5": NaN,
+        "3.0": NaN,
+        "3.5": NaN,
+        "4.0": 2.0,
+        "4.5": 7.0,
+        "5.0": 25.0
+    },
+    "recommendation_distribution": {
+        "1.0": 31.0,
+        "NaN": NaN,
+        "0.0": 3.0
+    }
+}
